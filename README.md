@@ -20,7 +20,7 @@
 
 ### ICCV 2019 Main Conference Program: http://iccv2019.thecvf.com/program/main_conference
 
-### ICCV 2019 Workshop Program: http://iccv2019.thecvf.com/program/workshops
+#### ICCV 2019 Workshop Program: http://iccv2019.thecvf.com/program/workshops
 
 ### ICCV 2017 Main Conference Program: http://iccv2017.thecvf.com/program/main_conference
 #
@@ -76,4 +76,4 @@ Link: http://openaccess.thecvf.com/menu.py
 
 ### ICCV Workshops 2015: http://openaccess.thecvf.com/ICCV2015_workshops/menu.py
 
-## ICCV Workshops 2013: http://openaccess.thecvf.com/ICCV2013_workshops/menu.py
+### ICCV Workshops 2013: http://openaccess.thecvf.com/ICCV2013_workshops/menu.py
