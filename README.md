@@ -1,4 +1,8 @@
-# CVPR Main Conference / Workshops Program
+# CVPR Main Conference / Workshops Program (2016 - present)
+
+### CVPR 2020 Main Conference Program: http://cvpr2020.thecvf.com/program/main_conference
+
+### CVPR 2020 Workshop Program: http://cvpr2020.thecvf.com/program/workshops
 
 ### CVPR 2019 Main Conference Program: http://cvpr2019.thecvf.com/program/main_conference
 
@@ -16,7 +20,7 @@
 
 ### CVPR 2016 Workshop Program: http://cvpr2016.thecvf.com/program/workshops
 
-# ICCV Main Conference /  Workshops Program
+# ICCV Main Conference /  Workshops Program (2017 - present)
 
 ### ICCV 2019 Main Conference Program: http://iccv2019.thecvf.com/program/main_conference
 
