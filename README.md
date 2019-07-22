@@ -27,7 +27,7 @@
 #### ICCV 2019 Workshop Program: http://iccv2019.thecvf.com/program/workshops
 
 ### ICCV 2017 Main Conference Program: http://iccv2017.thecvf.com/program/main_conference
-#
+
 ### ICCV 2017 Workshop Program: http://iccv2017.thecvf.com/program/workshops
 
 # Computer Vision Foundation open access 
